@@ -9,7 +9,7 @@
 - **Data Visualization:** Tableau, Matplotlib, ggplot2  
 - **Bioinformatics:** BLAST, Seaview, Comparative Genomics, EnrichR, clusterProfiler  
 - **Machine Learning:** Scikit-learn, XGBoost  
-- **Platforms & Tools:** TCGA, G-DOC Hub, Seven Bridges, Xena Browser, CIBERSORT, CRAVAT, IGV  
+- **Platforms & Tools:** TCGA, G-DOC Hub, Seven Bridges, Xena Browser, CIBERSORT, CRAVAT, IGV, All of Us
 
 ### 🌟 Current Interests  
 - Building predictive models for cancer incidence.  
@@ -18,8 +18,7 @@
 
 ### 📫 Let's Connect!  
 - **LinkedIn:** [linkedin.com/in/natalie-ellis2023](https://linkedin.com/in/natalie-ellis2023)  
-- **GitHub:** [github.com/natalierellis](https://github.com/natalierellis)  
-- **Email:** natalieellis@gmail.com  
+- **Email:** nar.ellis123@gmail.com  
 
 ### 🌱 Projects  
 - **Patient Mortality Prediction:** Developed machine learning models to predict mortality within 180 days using synthetic EHR data.  
