@@ -19,10 +19,11 @@
   - Use machine learning to uncover novel biomarkers and improve risk stratification.  
 
 ### 📫 Let's Connect!  
-- **LinkedIn:** [linkedin.com/in/natalie-ellis2023](https://linkedin.com/in/natalie-ellis2023)  
-- **Email:** natalieellis@gmail.com  
 
 I'm currently seeking roles in **healthcare data science**, **bioinformatics**, or **precision medicine analytics** starting Fall 2025.  
+
+- **LinkedIn:** [linkedin.com/in/natalie-ellis2023](https://linkedin.com/in/natalie-ellis2023)  
+- **Email:** natalieellis@gmail.com  
 
 ### 🌱 Projects  
 - **Comparative Cancer Genomics:** Performed comparative analyses in R on cancer datasets to identify genomic features associated with disease relapse.  
