@@ -14,8 +14,6 @@
 ### 🌟 Current Interests  
 - **Developing Risk Prediction Models:**  
   - Train predictive models using genetic and environmental features to assess cancer risk across cohorts (no cancer, precancerous, cancer).  
-  - Generate calibrated risk scores and use SHAP or similar techniques to decompose contributions into genetic and environmental factors.  
-  - Validate and refine models to ensure actionable insights for targeted screening and interventions.  
 - **Advancing Healthcare Analytics:**  
   - Leverage bioinformatics tools to integrate multi-omics data for precision medicine.  
   - Use machine learning to uncover novel biomarkers and improve risk stratification.  
