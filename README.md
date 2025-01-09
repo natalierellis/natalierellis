@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Natalie Ellis!
+### 🎓 About Me
+- Master's student in Health Informatics and Data Science at Georgetown University.
+- Passionate about data science, healthcare, and bioinformatics.
 
-<!--
-**natalierellis/natalierellis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Skills & Tools
+- Programming: Python, SQL, R
+- Visualization: Tableau, Matplotlib
+- Bioinformatics: BLAST, Seaview, Comparative Genomics
 
-Here are some ideas to get you started:
+### 🌟 Current Interests
+- Building predictive models for cancer incidence.
+- Exploring multi-omics integration for healthcare analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let's Connect!
+- LinkedIn: [linkedin.com/in/natalie-ellis2023](https://linkedin.com/in/natalie-ellis2023)
+- GitHub: [github.com/natalierellis](https://github.com/natalierellis)
