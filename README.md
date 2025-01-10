@@ -7,7 +7,7 @@
 ### 🛠️ Skills & Tools  
 - **Programming & Analysis:** Python, SQL, R (including DESeq2, ggplot2)  
 - **Data Visualization:** Tableau, Matplotlib, ggplot2  
-- **Bioinformatics:** BLAST, Seaview, Comparative Genomics, EnrichR, clusterProfiler  
+- **Bioinformatics:** BLAST, Seaview, EnrichR
 - **Machine Learning:** Scikit-learn, XGBoost  
 - **Platforms & Tools:** TCGA, G-DOC Hub, Seven Bridges, Xena Browser, CIBERSORT, CRAVAT, IGV, All of Us  
 
