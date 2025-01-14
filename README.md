@@ -5,7 +5,7 @@
 - Passionate about advancing healthcare through data-driven insights and bioinformatics techniques.  
 
 ### 🛠️ Skills & Tools  
-- **Programming & Analysis:** Python, SQL, R (including DESeq2, ggplot2)  
+- **Programming & Analysis:** Python, SQL, R
 - **Data Visualization:** Tableau, Matplotlib, ggplot2  
 - **Bioinformatics:** BLAST, Seaview, EnrichR
 - **Machine Learning:** Scikit-learn, XGBoost  
