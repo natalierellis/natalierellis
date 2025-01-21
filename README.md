@@ -2,7 +2,7 @@
 
 ### 🎓 About Me  
 - Master's student in Health Informatics and Data Science at Georgetown University.  
-- Passionate about advancing healthcare through data-driven insights and bioinformatics techniques.  
+- Passionate about advancing precision medicine initatives through data-driven insights and bioinformatics techniques.  
 
 ### 🛠️ Skills & Tools  
 - **Programming & Analysis:** Python, SQL, R
