@@ -19,13 +19,6 @@
   - Leveraging bioinformatics tools to integrate multi-omics data for precision medicine.  
   - Using machine learning to uncover novel biomarkers and improve risk stratification.  
 
-### 🌱 Projects  
-- **Patient Mortality Prediction:** Designed and implemented a machine learning pipeline to predict 180-day patient mortality using synthetic EHR data.  
-- **Comparative Cancer Genomics:** Performed comparative analyses in R on cancer datasets to identify genomic features associated with disease relapse.  
-- **Hypertension Referral Workflow:** Developed Tableau dashboards and OpenEMR interventions to streamline referral workflows and reduce unnecessary hypertension clinic referrals.  
-- **COVID Patient Registry Integration:** Wrote SQL queries to integrate EMR data for a multi-stakeholder COVID patient registry proposal.  
-- **RNA-Seq Analysis Pipeline:** Built a pipeline for differential gene expression analysis, leveraging edgeR and limma packages to analyze genomic datasets.  
-
 ### 🌟 Notable Experience  
 - **Postbac Fellow at NIH:**  
   - Harmonized clinical and genomic data to assess the relationship between alcohol-related phenotypes and epigenetic aging.  
