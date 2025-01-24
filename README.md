@@ -19,16 +19,6 @@
   - Leveraging bioinformatics tools to integrate multi-omics data for precision medicine.  
   - Using machine learning to uncover novel biomarkers and improve risk stratification.  
 
-### 🌟 Notable Experience  
-- **Postbac Fellow at NIH:**  
-  - Harmonized clinical and genomic data to assess the relationship between alcohol-related phenotypes and epigenetic aging.  
-  - Built regression models and visualizations to study effects of alcoholism on biological aging.  
-  - Coordinated patient recruitment and screenings for clinical trials, contributing to a PCSK9 inhibition study.  
-
-- **Wake Forest University:**  
-  - Developed RNA-Seq pipelines and genome annotation workflows.  
-  - Graduated **Summa Cum Laude** with a major in Biology and a focus on bioinformatics.  
-
 ### 📫 Let's Connect!  
 If you’re interested in discussing data science, bioinformatics, or healthcare analytics, feel free to reach out:  
 - **LinkedIn:** [Natalie Ellis](https://linkedin.com/in/natalie-ellis2023)  
