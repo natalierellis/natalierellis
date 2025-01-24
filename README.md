@@ -27,5 +27,5 @@ If you’re interested in discussing data science, bioinformatics, or healthcare
 ---  
 ### 🚀 Highlights from My Portfolio  
 - **[Patient Mortality Prediction](https://github.com/natalierellis/HIDS-Portfolio/tree/main/Patient_Mortality_Prediction):** End-to-end machine learning pipeline leveraging logistic regression and random forest to predict patient mortality within 180 days.  
-- **[Comparative Genomics Pipelines](https://github.com/natalierellis/HIDS-Portfolio/tree/main/Comparative_Genomics_Pipelines):** Bioinformatics projects analyzing Alzheimer's and bladder cancer data to uncover DEGs and biological pathways.  
+- **[Biomedical Data Analysis](https://github.com/natalierellis/HIDS-Portfolio/tree/main/Comparative_Genomics_Pipelines):** Bioinformatics projects analyzing Alzheimer's and bladder cancer data to uncover DEGs and biological pathways.  
 - **[Healthcare QI Project](https://github.com/natalierellis/HIDS-Portfolio/tree/main/Healthcare_QI_Project):** Process improvement project using OpenEMR modifications and Tableau dashboards to enhance hypertension referral workflows.  
