@@ -1,11 +1,9 @@
 # 👋 Hi, I'm Natalie Ellis!  
 
 ## 🎓 About Me  
-Master’s student in Health Informatics & Data Science at Georgetown University, passionate about leveraging data-driven solutions for precision medicine and healthcare analytics.  
-Currently seeking **Data Analyst** or **Data Scientist** roles in the DMV area starting Fall 2025.  
-
-My research interests include **risk prediction modeling** (integrating genetic & environmental data for cancer risk assessment) and **healthcare analytics** (leveraging bioinformatics & machine learning to uncover biomarkers and improve risk stratification).
-
+- Master's student in Health Informatics and Data Science at Georgetown University.  
+- Passionate about leveraging data-driven solutions to advance precision medicine initiatives and solve complex healthcare challenges.  
+- Currently seeking **Data Analyst** or **Data Scientist** roles in the DMV area starting Fall 2025.  
 
 ### 🛠️ Skills & Tools  
 - **Genomic Data & Bioinformatics:** Hail, Variant Filtering, BLAST, CIBERSORTx
@@ -13,7 +11,6 @@ My research interests include **risk prediction modeling** (integrating genetic 
 - **Machine Learning:** Scikit-learn, XGBoost, EnrichR
 - **Healthcare & Interoperability:** FHIR, OpenEMR, HAPI FHIR API
 - **Data Visualization & Cloud Computing:** Tableau, ggplot2, Matplotlib, Google Cloud (GCP), Hail MatrixTables
-
 
 ### 🌟 Current Interests  
 - **Advancing Healthcare Analytics:**  
@@ -32,9 +29,3 @@ If you’re interested in discussing data science, bioinformatics, or healthcare
 - **[Biomedical Data Analysis](https://github.com/natalierellis/HIDS-Portfolio/tree/main/Comparative_Genomics_Pipelines):** Bioinformatics projects analyzing Alzheimer's and bladder cancer data to uncover DEGs and biological pathways.  
 - **[Healthcare QI Project](https://github.com/natalierellis/HIDS-Portfolio/tree/main/Healthcare_QI_Project):** Process improvement project using OpenEMR modifications and Tableau dashboards to enhance hypertension referral workflows.
 
----
-
-## 📂 Repositories  
-- **[HIDS-Portfolio](https://github.com/natalierellis/HIDS-Portfolio)** 📊: Health Informatics & Data Science coursework, including ML, bioinformatics, and healthcare analytics.  
-- **[NIH-Research](https://github.com/natalierellis/NIH-Research)** 🏥: Epigenetic age analysis of alcoholic cohorts & biomedical statistics coursework from NIH.  
-- **[UndergraduateResearch](https://github.com/natalierellis/UndergraduateResearch)** 🔬: RNA-Seq analysis pipeline from my undergraduate research, featuring differential expression analysis & visualization.  
