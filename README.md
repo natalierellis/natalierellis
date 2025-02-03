@@ -1,9 +1,11 @@
 # 👋 Hi, I'm Natalie Ellis!  
 
-### 🎓 About Me  
-- Master's student in Health Informatics and Data Science at Georgetown University.  
-- Passionate about leveraging data-driven solutions to advance precision medicine initiatives and solve complex healthcare challenges.  
-- Currently seeking **Data Analyst** or **Data Scientist** roles in the DMV area starting Fall 2025.  
+## 🎓 About Me  
+Master’s student in Health Informatics & Data Science at Georgetown University, passionate about leveraging data-driven solutions for precision medicine and healthcare analytics.  
+Currently seeking **Data Analyst** or **Data Scientist** roles in the DMV area starting Fall 2025.  
+
+My research interests include **risk prediction modeling** (integrating genetic & environmental data for cancer risk assessment) and **healthcare analytics** (leveraging bioinformatics & machine learning to uncover biomarkers and improve risk stratification).
+
 
 ### 🛠️ Skills & Tools  
 - **Genomic Data & Bioinformatics:** Hail, Variant Filtering, BLAST, CIBERSORTx
