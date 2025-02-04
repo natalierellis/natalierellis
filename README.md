@@ -6,9 +6,9 @@
 - Currently seeking **Data Analyst** or **Data Scientist** roles in the DMV area starting Fall 2025.  
 
 ### 🛠️ Skills & Tools  
-- **Genomic Data & Bioinformatics:** Hail, Variant Filtering, BLAST, CIBERSORTx
+- **Genomic Data & Bioinformatics:** Hail, Variant Filtering, BLAST, CIBERSORTx, EnrichR
 - **Programming & Databases:** Python, R, SQL (PostgreSQL), JavaScript
-- **Machine Learning:** Scikit-learn, XGBoost, EnrichR
+- **Machine Learning:** Scikit-learn, XGBoost
 - **Healthcare & Interoperability:** FHIR, OpenEMR, HAPI FHIR API
 - **Data Visualization & Cloud Computing:** Tableau, ggplot2, Matplotlib, Google Cloud (GCP), Hail MatrixTables
 
