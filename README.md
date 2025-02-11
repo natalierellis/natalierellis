@@ -1,4 +1,4 @@
-# Hi, I'm Natalie Ellis!  
+# Hi, I'm Natalie Ellis
 
 ## 🎓 About Me  
 - Master's student in Health Informatics and Data Science at Georgetown University.  
