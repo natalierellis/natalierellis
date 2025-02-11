@@ -3,7 +3,7 @@
 ## 🎓 About Me  
 - Master's student in Health Informatics and Data Science at Georgetown University.  
 - Passionate about leveraging data-driven solutions to advance precision medicine initiatives and solve complex healthcare challenges.  
-- Currently seeking **Data Analyst** or **Data Scientist** roles in the DMV area starting Fall 2025.  
+- Currently seeking **Data Analyst**, **Data Scientist**, or **ML Engineer**  roles in the DMV area starting Fall 2025.  
 
 ### 🛠️ Skills & Tools  
 - **Genomic Data & Bioinformatics:** Hail, Variant Filtering, BLAST, CIBERSORTx, EnrichR
