@@ -20,7 +20,6 @@
   - Developing a survival analysis model using genomic, clinical, and lifestyle data from **All of Us** to estimate **when** someone might develop cancer.  
 
 ### 📫 Let's Connect!  
-If you’re interested in discussing data science, bioinformatics, or healthcare analytics, feel free to reach out:  
 - **LinkedIn:** [Natalie Ellis](https://linkedin.com/in/natalie-ellis2023)  
 - **Email:** ne210@georgetown.edu  
 
