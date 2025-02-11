@@ -13,7 +13,7 @@
 - **Data Visualization & Cloud Computing:** Tableau, ggplot2, Matplotlib, Google Cloud (GCP), Hail MatrixTables
 
 ### 🌟 Current Interests  
-🔗 **[Cancer Prediction Model](https://github.com/natalierellis/CancerRiskPrediction)**  
+**[Cancer Prediction Model](https://github.com/natalierellis/CancerRiskPrediction)**  
 - **Advancing Healthcare Analytics:**  
   - Leveraging bioinformatics and machine learning tools to integrate multi-omics data for precision medicine.  
 - **AI for Precision Medicine:**  
