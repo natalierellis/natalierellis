@@ -18,9 +18,6 @@
   - Leveraging bioinformatics and machine learning tools to integrate multi-omics data for precision medicine.  
 - **AI for Precision Medicine:**  
   - Developing a survival analysis model using genomic, clinical, and lifestyle data from **All of Us** to estimate **when** someone might develop cancer.  
-  - Implementing deep learning to handle **right-censored data**, ensuring accurate risk estimation for individuals who haven't developed cancer yet.  
-  - Designing the model to avoid "old = cancer" assumptions so younger individuals can use it to assess **future** cancer risk based on personalized factors.  
-
 
 ### 📫 Let's Connect!  
 If you’re interested in discussing data science, bioinformatics, or healthcare analytics, feel free to reach out:  
@@ -31,5 +28,4 @@ If you’re interested in discussing data science, bioinformatics, or healthcare
 ### 🚀 Highlights from My Portfolio  
 - **[Patient Mortality Prediction](https://github.com/natalierellis/HIDS-Portfolio/tree/main/Patient_Mortality_Prediction):** End-to-end machine learning pipeline leveraging logistic regression and random forest to predict patient mortality within 180 days.  
 - **[Biomedical Data Analysis](https://github.com/natalierellis/HIDS-Portfolio/tree/main/Comparative_Genomics_Pipelines):** Bioinformatics projects analyzing Alzheimer's and bladder cancer data to uncover DEGs and biological pathways.  
-- **[Healthcare QI Project](https://github.com/natalierellis/HIDS-Portfolio/tree/main/Healthcare_QI_Project):** Process improvement project using OpenEMR modifications and Tableau dashboards to enhance hypertension referral workflows.
 
