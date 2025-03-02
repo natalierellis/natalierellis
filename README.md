@@ -13,7 +13,7 @@
 ### Current Interests  
 **[Cancer Risk Prediction Model](https://github.com/natalierellis/CancerRiskPrediction)**  
 - **Advancing Healthcare Analytics:**  
-  - Leveraging bioinformatics and machine learning tools to integrate multi-omics data for precision medicine.  
+  - Leveraging bioinformatics and machine learning tools to integrate multimodal data for precision medicine.  
 - **AI for Precision Medicine:**  
   - Developing a survival analysis model using genomic, clinical, and lifestyle data from **All of Us** to estimate **when** someone might develop cancer.  
 
