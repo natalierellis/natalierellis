@@ -1,6 +1,6 @@
 
 ## About Me  
-I specialize in **bioinformatics, machine learning, and cloud computing** to drive **precision medicine innovations**. Currently, I am developing a **deep learning survival model** for **cancer risk prediction** using genomic, clinical, and lifestyle data from **All of Us**.  
+I specialize in **bioinformatics, machine learning, and cloud computing** to drive **precision medicine innovations**. Currently, I am developing a deep learning survival model for cancer risk prediction using genomic, clinical, and lifestyle data from All of Us.  
 
 I am seeking Data Scientist, ML Engineer, or Bioinformatics Analyst roles starting Fall 2025.
 
@@ -16,17 +16,17 @@ I am seeking Data Scientist, ML Engineer, or Bioinformatics Analyst roles starti
 ### Current Interests  
 **[Cancer Risk Prediction Model](https://github.com/natalierellis/CancerRiskPrediction)**  
 - **Survival Analysis & Predictive Modeling:**  
-  - Engineering **epidemiological & genomic features** for a **deep learning model** estimating **individualized cancer onset**.  
-  - Applying **Kaplan-Meier risk stratification** to assess **feature prognostic relevance**.  
+  - Engineering epidemiological & genomic features for a deep learning model estimating individualized cancer onset.  
+  - Applying Kaplan-Meier risk stratification to assess feature prognostic relevance.  
 - **Cloud-Based Genomic Analysis:**  
-  - Filtering **srWGS variants** by **locus, allele frequency (AF), and QC metrics** in **GCP** for high-throughput data processing.   
+  - Filtering srWGS variants by locus, allele frequency (AF), and QC metrics in GCP for high-throughput data processing.   
 
 ---  
 ### Highlights from My Portfolio  
 - **[Patient Mortality Prediction](https://github.com/natalierellis/HIDS-Portfolio/tree/main/Patient_Mortality_Prediction):**
-  - Developed an **end-to-end ML pipeline** for predicting **180-day mortality** using **OMOP-formatted EHR data**.  
-  - Built automated workflows for **data ingestion, feature engineering, model training, and evaluation** *(Scikit-learn, Matplotlib)*.  
+  - Developed an end-to-end ML pipeline for predicting 180-day mortality using OMOP-formatted EHR data.  
+  - Built automated workflows for data ingestion, feature engineering, model training, and evaluation (Scikit-learn, Matplotlib).  
 - **[Biomedical Data Analysis](https://github.com/natalierellis/HIDS-Portfolio/tree/main/Comparative_Genomics_Pipelines):**
-  - Identified **differentially expressed genes (DEGs)** in **Alzheimer’s & bladder cancer datasets**.  
-  - Applied **enrichment analysis** *(KEGG, Reactome)* to uncover **biological pathways** linked to disease progression.
+  - Identified differentially expressed genes (DEGs) in Alzheimer’s & bladder cancer datasets.  
+  - Applied enrichment analysis (KEGG, Reactome) to uncover biological pathways linked to disease progression.
 
