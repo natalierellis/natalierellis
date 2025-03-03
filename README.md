@@ -2,7 +2,7 @@
 ## About Me  
 I specialize in **bioinformatics, machine learning, and cloud computing** to drive **precision medicine innovations**. Currently, I am developing a **deep learning survival model** for **cancer risk prediction** using genomic, clinical, and lifestyle data from **All of Us**.  
 
-I am seeking Data Scientist, ML Engineer, or Bioinformatics Analyst roles starting in Fall 2025
+I am seeking Data Scientist, ML Engineer, or Bioinformatics Analyst roles starting Fall 2025.
 
 ### Skills & Tools  
 - **Programming & Data Science**: Python, R, SQL, JavaScript, Scikit-learn, TensorFlow, Statsmodels, Pandas
