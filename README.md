@@ -1,14 +1,15 @@
 
 ## About Me  
-- Passionate about leveraging data-driven solutions to advance precision medicine initiatives and solve complex healthcare challenges.  
-- Currently seeking **Data Analyst**, **Data Scientist**, or **ML Engineer**  roles in the DMV area starting Fall 2025.  
+I specialize in **bioinformatics, machine learning, and cloud computing** to drive **precision medicine innovations**. Currently, I am developing a **deep learning survival model** for **cancer risk prediction** using genomic, clinical, and lifestyle data from **All of Us**.  
 
 ### Skills & Tools  
-- **Genomic Data & Bioinformatics:** Hail, Variant Filtering, BLAST, CIBERSORTx, EnrichR
-- **Programming & Databases:** Python, R, SQL (PostgreSQL), JavaScript
-- **Machine Learning:** Scikit-learn, XGBoost
-- **Healthcare & Interoperability:** FHIR, OpenEMR, HAPI FHIR API
-- **Data Visualization & Cloud Computing:** Tableau, ggplot2, Matplotlib, Google Cloud (GCP), Hail MatrixTables
+•  Programming & Data Science: Python, R, SQL, JavaScript, Scikit-learn, TensorFlow, Statsmodels, Pandas
+•  Bioinformatics: Hail, edgeR, limma, srWGS, Variant Filtering, BLAST, KEGG, enrichR
+•  Biostatistics & Health Informatics: OMOP-CDM, Survival Analysis, HAPI FHIR API, Kaplan-Meier curves
+•  Cloud & Big Data: All of Us Workbench, Google Cloud (GCP), BigQuery, HPC/Linux, Feature Engineering
+•  Visualization: Tableau, ggplot2, Matplotlib; MDS, Volcano, Forest, Manhattan plots
+
+
 
 ### Current Interests  
 **[Cancer Risk Prediction Model](https://github.com/natalierellis/CancerRiskPrediction)**  
