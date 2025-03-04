@@ -6,7 +6,7 @@ I am seeking Data Scientist, ML Engineer, or Bioinformatics Analyst roles starti
 
 ### Skills & Tools  
 - **Programming & Data Science**: Python, R, SQL, JavaScript, Scikit-learn, TensorFlow, Statsmodels, Pandas
-- **Bioinformatics**: Hail, edgeR, limma, srWGS, Variant Filtering, BLAST, KEGG, enrichR, RNA-Seq
+- **Bioinformatics**: Hail, RNA-Seq, srWGS, Variant Filtering, BLAST, KEGG, enrichR
 - **Biostatistics & Health Informatics**: OMOP-CDM, Survival Analysis, HAPI FHIR API, Kaplan-Meier curves
 - **Cloud & Big Data**: All of Us Workbench, Google Cloud (GCP), BigQuery, HPC/Linux, Feature Engineering
 - **Visualization**: Tableau, ggplot2, Matplotlib; MDS, Volcano, Forest, Manhattan plots
