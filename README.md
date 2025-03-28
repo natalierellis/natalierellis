@@ -1,6 +1,6 @@
 
 ## About Me  
-I specialize in **NGS data analysis, machine learning, and cloud computing** to drive **precision medicine innovations**. Currently, I am developing a survival model for cancer risk prediction using genomic, clinical, and lifestyle data from All of Us.  
+I specialize in **clinical data analysis, machine learning, and cloud computing** to drive **precision medicine innovations**. Currently, I am developing a survival model for cancer risk prediction using genomic, clinical, and lifestyle data from All of Us.  
 
 I am seeking Data Scientist, ML Engineer, or Bioinformatics Analyst roles starting Fall 2025.
 
