@@ -16,7 +16,7 @@ I am seeking Data Scientist, ML Engineer, or Bioinformatics Analyst roles starti
 ### Current Interests  
 **[Cancer Risk Prediction Model](https://github.com/natalierellis/CancerRiskPrediction)**  
 - **Survival Analysis & Predictive Modeling:**  
-  - Engineering epidemiological & genomic features for a deep learning model estimating individualized cancer onset.  
+  - Engineering epidemiological & genomic features for a predictive model estimating individualized cancer onset.  
   - Applying Kaplan-Meier risk stratification to assess feature prognostic relevance.  
 - **Cloud-Based Genomic Analysis:**  
   - Filtering srWGS variants by locus, allele frequency (AF), and QC metrics in GCP for high-throughput data processing.   
