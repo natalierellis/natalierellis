@@ -1,6 +1,6 @@
 
 ## About Me  
-I specialize in **clinical data analysis, machine learning, and cloud computing** to drive **precision medicine innovations**. Currently, I am developing a survival model for cancer risk prediction using genomic, clinical, and lifestyle data from All of Us.  
+I specialize in **clinical data analysis, machine learning, and biostatistics applications** to drive **precision medicine innovations**. Currently, I am developing a survival model for cancer risk prediction using genomic, clinical, and lifestyle data from All of Us.  
 
 I am seeking Clinical Data Analyst or Bioinformatics Analyst roles starting Summer 2025.
 
@@ -16,8 +16,8 @@ I am seeking Clinical Data Analyst or Bioinformatics Analyst roles starting Summ
 ### Current Interests  
 **[Cancer Risk Prediction Model](https://github.com/natalierellis/CancerRiskPrediction)**  
 - **Survival Analysis & Predictive Modeling:**  
-  - Engineering epidemiological & genomic features for a predictive model estimating individualized cancer onset.  
-  - Applying Kaplan-Meier risk stratification to assess feature prognostic relevance.  
+  - Engineering epidemiological & genomic features for a predictive model estimating patient-level cancer risk.  
+  - Applying Kaplan-Meier risk stratification to assess feature etiological relevance.  
 - **Cloud-Based Genomic Analysis:**  
   - Filtering srWGS variants by locus, allele frequency (AF), and QC metrics in GCP for high-throughput data processing.   
 
